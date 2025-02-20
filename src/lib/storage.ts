@@ -1,6 +1,6 @@
 import type { ShortenedLink } from "./types";
 
-const STORAGE_KEY = "figma_short_links";
+const STORAGE_KEY = "@url-shortener/short_links";
 
 export function saveLinks(links: ShortenedLink[]): void {
   if (typeof window === "undefined") return;

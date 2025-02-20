@@ -1,6 +1,6 @@
 # URL Shortener
 
-This is a modern, user-friendly URL shortener specifically designed for Figma share links. Built with Next.js and React, it offers a sleek interface for shortening Figma URLs, with features like custom slugs and link history.
+This is a modern, user-friendly URL shortener specifically designed for URLs. Built with Next.js and React, it offers a sleek interface for shortening URLs, with features like custom slugs and link history.
 
 ![URL Shortener Project](image-1.png)
 
@@ -78,7 +78,7 @@ This is a modern, user-friendly URL shortener specifically designed for Figma sh
 ## Project Structure
 
 ```
-figma-short-link/
+url-shortener/
 ├── app/
 │   ├── page.tsx
 │   └── error.tsx
