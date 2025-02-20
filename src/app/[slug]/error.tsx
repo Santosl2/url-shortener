@@ -20,7 +20,7 @@ export default function ErrorPage(data: {
         </h1>
         <div className="mb-8">
           <p className="text-lg text-gray-600 mb-4">
-            We're sorry, but an unexpected error occurred. Our team has been
+            We`re sorry, but an unexpected error occurred. Our team has been
             notified and is working on a fix.
           </p>
           <p className="text-sm text-gray-500 mb-4">
