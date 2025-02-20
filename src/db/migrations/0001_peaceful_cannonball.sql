@@ -1,0 +1,1 @@
+ALTER TABLE `urls` ADD `slug` text NOT NULL;
