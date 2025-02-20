@@ -2,7 +2,7 @@
 
 This is a modern, user-friendly URL shortener specifically designed for Figma share links. Built with Next.js and React, it offers a sleek interface for shortening Figma URLs, with features like custom slugs and link history.
 
-![URL Shortener](image.png)
+![URL Shortener Project](image-1.png)
 
 ## Features
 

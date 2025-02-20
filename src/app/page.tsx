@@ -45,7 +45,7 @@ export default function Home() {
       <div className="space-y-6">
         <div>
           <h2 className="text-2xl font-medium text-gray-900 mb-2">
-            Tired of your long, ugly Figma share link?
+            Tired of your long, ugly share link?
           </h2>
           <p className="text-lg text-gray-600 mb-6">
             Paste it here, make it nice.
